@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|c:\\users\\kp685\\source\\repos\\c#featuresandcollections\\c#featuresandcollections\\exception_except.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|solutionrelative:c#featuresandcollections\\exception_except.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|c:\\users\\kp685\\source\\repos\\c#featuresandcollections\\c#featuresandcollections\\type2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|solutionrelative:c#featuresandcollections\\type2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|c:\\users\\kp685\\source\\repos\\c#featuresandcollections\\c#featuresandcollections\\nullable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|solutionrelative:c#featuresandcollections\\nullable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|c:\\users\\kp685\\source\\repos\\c#featuresandcollections\\c#featuresandcollections\\systemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|solutionrelative:c#featuresandcollections\\systemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|c:\\users\\kp685\\source\\repos\\c#featuresandcollections\\c#featuresandcollections\\stringfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|solutionrelative:c#featuresandcollections\\stringfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|c:\\users\\kp685\\source\\repos\\c#featuresandcollections\\c#featuresandcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE7535D-2A1D-92C9-1DA2-71702D4C2353}|C#FeaturesandCollections\\C#FeaturesandCollections.csproj|solutionrelative:c#featuresandcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Program.cs",
+              "RelativeDocumentMoniker": "C#FeaturesandCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Program.cs",
+              "RelativeToolTip": "C#FeaturesandCollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:49:01.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringFeature.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\StringFeature.cs",
+              "RelativeDocumentMoniker": "C#FeaturesandCollections\\StringFeature.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\StringFeature.cs",
+              "RelativeToolTip": "C#FeaturesandCollections\\StringFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:51:18.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemObject.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\SystemObject.cs",
+              "RelativeDocumentMoniker": "C#FeaturesandCollections\\SystemObject.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\SystemObject.cs",
+              "RelativeToolTip": "C#FeaturesandCollections\\SystemObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:35:41.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nullable2.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Nullable2.cs",
+              "RelativeDocumentMoniker": "C#FeaturesandCollections\\Nullable2.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Nullable2.cs",
+              "RelativeToolTip": "C#FeaturesandCollections\\Nullable2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:12:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Type2.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Type2.cs",
+              "RelativeDocumentMoniker": "C#FeaturesandCollections\\Type2.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Type2.cs",
+              "RelativeToolTip": "C#FeaturesandCollections\\Type2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:54:00.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exception_except.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Exception_except.cs",
+              "RelativeDocumentMoniker": "C#FeaturesandCollections\\Exception_except.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\C#FeaturesandCollections\\C#FeaturesandCollections\\Exception_except.cs",
+              "RelativeToolTip": "C#FeaturesandCollections\\Exception_except.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:03:51.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

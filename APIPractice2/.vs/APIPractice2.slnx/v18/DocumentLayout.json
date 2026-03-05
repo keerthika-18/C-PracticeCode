@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\data\\datacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\data\\datacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\apipractice2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\apipractice2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|c:\\users\\kp685\\source\\repos\\apipractice2\\apipractice2\\apipractice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB8A64E6-3F83-150B-A410-5939DC5C72D4}|APIPractice2\\APIPractice2.csproj|solutionrelative:apipractice2\\apipractice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Data\\DataContextFactory.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Data\\DataContextFactory.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Data\\DataContextFactory.cs",
+              "RelativeToolTip": "APIPractice2\\Data\\DataContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:07:44.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Interface\\IDepartment.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Interface\\IDepartment.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Interface\\IDepartment.cs",
+              "RelativeToolTip": "APIPractice2\\Interface\\IDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:12:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Dto\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Dto\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Dto\\DepartmentDto.cs",
+              "RelativeToolTip": "APIPractice2\\Dto\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:12:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Models\\Employee.cs",
+              "RelativeToolTip": "APIPractice2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:57:11.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Interface\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "APIPractice2\\Interface\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:11:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "APIPractice2\\Dto\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:12:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "APIPractice2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:01:02.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "APIPractice2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:00:47.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Data\\DataContext.cs",
+              "RelativeToolTip": "APIPractice2\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:05:03.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Models\\Department.cs",
+              "RelativeToolTip": "APIPractice2\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:57:12.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Program.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Program.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Program.cs",
+              "RelativeToolTip": "APIPractice2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:27:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\appsettings.json",
+              "RelativeDocumentMoniker": "APIPractice2\\appsettings.json",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\appsettings.json",
+              "RelativeToolTip": "APIPractice2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T05:10:28.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "APIPractice2\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:13:21.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "APIPractice2\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "APIPractice2\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:13:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIPractice2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIPractice2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T08:24:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "APIPractice2.http",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\APIPractice2.http",
+              "RelativeDocumentMoniker": "APIPractice2\\APIPractice2.http",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\APIPractice2.http",
+              "RelativeToolTip": "APIPractice2\\APIPractice2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-26T06:07:18.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "APIPractice2.csproj",
+              "DocumentMoniker": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\APIPractice2.csproj",
+              "RelativeDocumentMoniker": "APIPractice2\\APIPractice2.csproj",
+              "ToolTip": "C:\\Users\\kp685\\source\\repos\\APIPractice2\\APIPractice2\\APIPractice2.csproj",
+              "RelativeToolTip": "APIPractice2\\APIPractice2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T05:08:49.089Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

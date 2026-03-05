@@ -1,0 +1,14 @@
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\bin\Debug\net10.0\C#FeaturesandCollections.exe
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\bin\Debug\net10.0\C#FeaturesandCollections.deps.json
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\bin\Debug\net10.0\C#FeaturesandCollections.runtimeconfig.json
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\bin\Debug\net10.0\C#FeaturesandCollections.dll
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\bin\Debug\net10.0\C#FeaturesandCollections.pdb
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.AssemblyInfoInputs.cache
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.AssemblyInfo.cs
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.csproj.CoreCompileInputs.cache
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.dll
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\refint\C#FeaturesandCollections.dll
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.pdb
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\C#FeaturesandCollections.genruntimeconfig.cache
+C:\Users\kp685\source\repos\C#FeaturesandCollections\C#FeaturesandCollections\obj\Debug\net10.0\ref\C#FeaturesandCollections.dll
